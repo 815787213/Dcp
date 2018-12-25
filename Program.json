@@ -29,7 +29,7 @@
         {
             "Pain":"4",
             "Pail":"5",
-            "Changebiao":"",
+            "Changebiao":"upo.png",
             "Language":"Python",
             "Ratings":"7.156%",
             "Changeshu":"+3.35%"
@@ -37,7 +37,7 @@
         {
             "Pain":"5",
             "Pail":"8",
-            "Changebiao":"",
+            "Changebiao":"upo.png",
             "Language":"Visual Basic .NET",
             "Ratings":"5.884%",
             "Changeshu":"+3.15%"
@@ -45,7 +45,7 @@
         {
             "Pain":"6",
             "Pail":"4",
-            "Changebiao":"",
+            "Changebiao":"downo.png",
             "Language":"C#",
             "Ratings":"3.485%",
             "Changeshu":"-0.37%"
@@ -61,7 +61,7 @@
         {
             "Pain":"8",
             "Pail":"6",
-            "Changebiao":"",
+            "Changebiao":"downo.png",
             "Language":"JavaScript",
             "Ratings":"2.280%",
             "Changeshu":"-0.73%"
